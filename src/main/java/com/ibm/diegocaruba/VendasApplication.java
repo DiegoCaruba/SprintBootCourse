@@ -58,7 +58,6 @@ public class VendasApplication {
                 System.out.println("NENHUM CLIENTE ENCONTRADO");
             } else {
                 todosClientes.forEach(System.out::println);
-
             }
         };
     }
